@@ -9,3 +9,7 @@ In this repository you will find the datasets and scripts used in the work "Conn
 ## Authors
 
 Bárbara R. Delgado, Alejandro M. Ferreiro, Natalia Trujillo-Arias, Nelson Buainain, Luís F. Silveira, Cássia A. Lima Rezende, Vagner Cavarzere, Gustavo S. Cabanne
+
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the LICENSE file for details.
